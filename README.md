@@ -33,6 +33,17 @@ If you are still not sure of just you want a demonstration as proof it is at lea
 [Rox AI demonstration.webm](https://github.com/user-attachments/assets/9b3062c1-18ab-413b-83ed-9a6f2a8e15ca)
 
 # How do I install it ?
-Well, for the first releases it is quiet easy (v.1.0 - 1.0.2), you just go to releases, and you download the .zip file, once extracted you open the .exe installer and follow the instructions on the screen.
+Well, for the first releases it is quiet easy (v.1.0 - v.1.0.2), you just go to releases, and you download the .zip file, once extracted you open the .exe installer and follow the instructions on the screen.
 
-For newer versions (such as v.1.0.3 - Latest), you will have to setup everything for yourself (_yeah, we're really sorry!_), start by going to releases, then download the .zip file and then extract the .iso file, then mount the ISO, copy all the content from your ISO disc and paste them somewhere in your C: drive (We recommend you to create a folder in C: and call it whatever you want then pasting inside of it the content), once done you will have to create a shortcut to your desktop, right click the file called "winroxai.exe" and select send to desktop option. On your desktop select the created shortcut and rename it by "Rox AI". Now you're all set! Enjoy Rox AI !
+For newer versions (such as v.1.0.3 - Latest), you will have to setup everything for yourself (_yeah, we're really sorry!_), start by going to releases, then download the .zip file and then extract the .iso file, then mount the ISO, copy all the content from your ISO disc and paste them somewhere in your C: drive (We recommend you to create a folder in C: and call it whatever you want then pasting inside of it the content), once done you will have to create a shortcut to your desktop, right click the file called "winroxai.exe" and select send to desktop option. On your desktop select the created shortcut and rename it by "Rox AI". Now you're all set! Enjoy our App !
+
+# Installation Steps:
+To make the installation guide more easier to understand, we made a list of steps that you must follow in order to properly install the Chatbot:
+
+  **1- Download the .zip file from the releases page**
+  **2- After download, extract the .zip file to your desktop**
+  **3- Open then mount the extracted .iso file**
+  **4- Go to your C:/ drive and create a folder _(Note that you may need admin priviliges to do that!)_**
+  **5- Go back to the .iso, copy and paste the content to the created folder**
+  **6- Right click on winroxai.exe / winroxai then select "Send to desktop (Shortcut)"**
+  **7- Rename the new shortcut by "Rox AI" so you can easly find it**
