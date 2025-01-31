@@ -41,9 +41,15 @@ For newer versions (such as v.1.0.3 - Latest), you will have to setup everything
 To make the installation guide more easier to understand, we made a list of steps that you must follow in order to properly install the Chatbot:
 
   **1- Download the .zip file from the releases page**
+  
   **2- After download, extract the .zip file to your desktop**
+  
   **3- Open then mount the extracted .iso file**
+  
   **4- Go to your C:/ drive and create a folder _(Note that you may need admin priviliges to do that!)_**
+  
   **5- Go back to the .iso, copy and paste the content to the created folder**
+  
   **6- Right click on winroxai.exe / winroxai then select "Send to desktop (Shortcut)"**
+  
   **7- Rename the new shortcut by "Rox AI" so you can easly find it**
